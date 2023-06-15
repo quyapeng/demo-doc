@@ -4,13 +4,6 @@ A doc template can assist you to develop libraries & write docs.
 
 English | [简体中文](./README.zh-CN.md)
 
-## 🚀 How to use?
-
-![](https://gw.alipayobjects.com/zos/bmw-prod/91791904-cdde-4408-959d-72fd0c9049b1/kj80x6lv_w1918_h352.png)
-
-## ✨ Online preview
-
-https://umijs.github.io/dumi-template/
 
 ## 📒 Catalog Introduction
 
